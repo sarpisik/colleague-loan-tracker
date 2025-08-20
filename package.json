@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/colleague-loan-tracker",
+  "homepage": "https://sarpisik.github.io/colleague-loan-tracker",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
